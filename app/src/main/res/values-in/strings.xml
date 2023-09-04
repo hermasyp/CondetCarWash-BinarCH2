@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Condet Car Wash</string>
+    <string name="text_header_name">Halo! Hermas</string>
+    <string name="text_header_greetings">Senang melihat anda lagi!</string>
+    <string name="text_banner_click_more">Klik untuk melihat detail</string>
+    <string name="text_banner_desc">Cuci kapanpun dimanapun dengan subscription hanya Rp. 49.000</string>
+    <string name="text_your_balance">Saldo anda</string>
+    <string name="text_user_balance">Rp. 800.000</string>
+    <string name="text_top_up">Top Up</string>
+    <string name="text_via_vca">Via BCA</string>
+</resources>
